@@ -1,0 +1,5 @@
+out.wasm
+out.js
+.cache
+.clangd
+compile_commands.json
